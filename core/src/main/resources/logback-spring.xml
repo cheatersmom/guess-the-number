@@ -2,7 +2,7 @@
 
     <include resource="org/springframework/boot/logging/logback/base.xml"/>
 
-    <logger name ="academy.learnprogramming" level="DEBUG"/>
+    <logger name ="teo.guessnumber" level="DEBUG"/>
     <logger name="org.springframework" level="DEBUG"/>
 
 </configuration>
